@@ -58,9 +58,13 @@
 1. 下载 JSON 文件
 2. 打开酒馆助手
 3. 导入脚本
-![导入位置](./pic/1.png)
+<p align="center">
+  <img src="./pic/1.png" width="600">
+</p>
 5. 启用：「魔法棒 → 副本生成器」
-![按钮位置](./pic/3.png)
+<p align="center">
+  <img src="./pic/3.png" width="600">
+</p>
 
 ---
 
