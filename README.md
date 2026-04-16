@@ -55,13 +55,13 @@
 
 ## 1️⃣ 安装脚本
 非常正常的导入操作：
-1. 下载 JSON 文件
-2. 打开酒馆助手
-3. 导入脚本
+下载 JSON 文件
+打开酒馆助手
+导入脚本
 <p align="center">
   <img src="./pic/1.png" width="600">
 </p>
-5. 启用：「魔法棒 → 副本生成器」
+启用：「魔法棒 → 副本生成器」
 <p align="center">
   <img src="./pic/3.png" width="600">
 </p>
@@ -70,24 +70,26 @@
 
 ## 2️⃣ 前期 配置
 
+### 四种主题
+除“生门”外都有吓人小彩（巧）蛋（思）
+<p align="center">
+  <img src="./pic/4.png" width="600">
+</p>
 
-必须填写：
+### API配置
+很基础的配置方法，API URL/API Key/Model，不多赘述
+<p align="center">
+  <img src="./pic/5.png" width="600">
+</p>
 
-* API URL
-* API Key
-* Model
+### 提示词设置
+支持修改和保存预设，如果对自己的副本有特殊要求可以在这里修改（可以参照下面的详细介绍）
+默认 Prompt 已优化，新手建议完全不改直接用
+<p align="center">
+  <img src="./pic/6.png" width="600">
+</p>
 
-👉 不填无法生成
 
----
-
-## 3️⃣ 提示词设置
-
-【插图位置：Prompt 编辑器截图】
-
-默认 Prompt 已优化：
-
-👉 新手建议 **完全不改直接用**
 
 ---
 
